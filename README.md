@@ -1,4 +1,5 @@
 # Naruka
+https://youtu.be/rkCWEen2pKE
 "Introducing Naruka, a groundbreaking project dedicated to making gaming more inclusive for everyone, especially those with physical disabilities. Our mission is to enhance the gaming experience by developing a computer vision-based gamepad emulator that offers a new level of accessibility and customization.
 
 Naruka aims to decrease dependency on traditional game controllers, allowing users to enjoy a wide range of games that were previously inaccessible. With Naruka, users can customize their gaming experience by choosing their preferred level of motion sensitivity, ensuring a personalized and immersive gaming experience for all.
