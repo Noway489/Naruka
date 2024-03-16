@@ -1,5 +1,5 @@
 # Naruka
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rkCWEen2pKE/0.jpg)](https://www.youtube.com/watch?v=rkCWEen2pKE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dU5RuoOtBWU/0.jpg)](https://www.youtube.com/watch?v=dU5RuoOtBWU)
 
 
 
